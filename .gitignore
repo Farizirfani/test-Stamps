@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+jspm_packages/
+
+# env & secrets
+.env
+
+# caches
+.npm/

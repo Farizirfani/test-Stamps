@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "test-1": "node test-1.js",
+    "test-2": "node test-2.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
